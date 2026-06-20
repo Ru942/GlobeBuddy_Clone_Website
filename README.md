@@ -8,7 +8,7 @@ GlobeBuddy/ │── index.html │── style.css │── images/ │──
 
 The main objective of GlobeBuddy is to simulate a real-world travel agency landing page while strengthening front-end development skills. It focuses on layout design, responsiveness, and UI consistency—making it a strong portfolio project for beginners and aspiring web developers.
 
-Project Link - 
+Project Link - https://ru942.github.io/GlobeBuddy_Clone_Website/
 
 🌟 Future Improvements 🔥 Add JavaScript booking system 🗺️ Integrate Google Maps API 🔐 Login & signup page 💳 Payment gateway UI 🎥 Video background hero section 🌍 Multi-page travel website expansion
 
